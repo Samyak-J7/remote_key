@@ -4,7 +4,7 @@
     "topic": "pit_oms_g2one",
     "value": "{\"dev_id\":\"pit_oms_e6614864d3496f34\", \"rly2\":2400}",
     "tmode": "TTR",
-    "tbase": 510,
+    "tbase": "0510",
     "lg": 0,
     "lt": 0
   },
@@ -13,7 +13,7 @@
     "topic": "pit_oms_g2one",
     "value": "{\"dev_id\":\"pit_oms_e6614864d3496f34\", \"rly2\":2}",
     "tmode": "TTR",
-    "tbase": 600,
+    "tbase": "0600",
     "lg": 0,
     "lt": 0
   },
@@ -22,7 +22,7 @@
     "topic": "pit_oms_g2one",
     "value": "{\"dev_id\":\"pit_oms_e6614864d3496f34\", \"rly1\":100,  \"rly0\":0.3}",
     "tmode": "0",
-    "tbase": 0,
+    "tbase": "",
     "lg": 0,
     "lt": 0
   },
@@ -31,7 +31,7 @@
     "topic": "pit_oms_g2one",
     "value": "{\"dev_id\":\"pit_oms_e6614864d3496f34\", \"rly1\":600}",
     "tmode": "0",
-    "tbase": 0,
+    "tbase": "",
     "lg": 0,
     "lt": 0
   },
@@ -40,7 +40,7 @@
     "topic": "pit_oms_g2one",
     "value": "{\"dev_id\":\"pit_oms_e661410403656324\", \"rly0\":2100}",
     "tmode": "TTR",
-    "tbase": 510,
+    "tbase": "0510",
     "lg": 0,
     "lt": 0
   },
@@ -49,7 +49,7 @@
     "topic": "pit_oms_g2one",
     "value": "{\"dev_id\":\"pit_oms_e661410403656324\", \"rly0\":2}",
     "tmode": "0",
-    "tbase": 0,
+    "tbase": "",
     "lg": 0,
     "lt": 0
   },
@@ -58,7 +58,7 @@
     "topic": "pit_oms_g2one",
     "value": "{\"dev_id\":\"pit_bx1_e66430a64b295a2f\", \"rly0\":1800}",
     "tmode": "TTR",
-    "tbase": 459,
+    "tbase": "0459",
     "lg": 0,
     "lt": 0
   },
@@ -67,7 +67,7 @@
     "topic": "pit_oms_g2one",
     "value": "{\"dev_id\":\"pit_bx1_e66430a64b27502f\",\"rly0\":2100}",
     "tmode": "TTR",
-    "tbase": 504,
+    "tbase": "0504",
     "lg": 0,
     "lt": 0
   }
