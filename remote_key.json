@@ -70,5 +70,41 @@
     "tbase": "0504",
     "lg": 0,
     "lt": 0
+  },
+  {
+    "kee": "*990504#",
+    "topic": "pit_oms_g2one",
+    "value": "{\"dev_id\":\"pit_bx1_e66430a64b6e532f\",\"rly0\":550}",
+    "tmode": "TTR",
+    "tbase": "1850",
+    "lg": 0,
+    "lt": 0
+  },
+  {
+    "kee": "*990504#",
+    "topic": "pit_oms_g2one",
+    "value": "{\"dev_id\":\"pit_bx1_e66430a64b6e532f\",\"rly0\":5}",
+    "tmode": "TTR",
+    "tbase": "1852",
+    "lg": 0,
+    "lt": 0
+  },
+  {
+    "kee": "*990504#",
+    "topic": "pit_oms_g2one",
+    "value": "{\"dev_id\":\"pit_bx1_e66430a64b6e532f\",\"rly0\":550}",
+    "tmode": "TTR",
+    "tbase": "1858",
+    "lg": 0,
+    "lt": 0
+  },
+  {
+    "kee": "*990504#",
+    "topic": "pit_oms_g2one",
+    "value": "{\"dev_id\":\"pit_bx1_e66430a64b6e532f\",\"rly0\":550}",
+    "tmode": "TTR",
+    "tbase": "1905",
+    "lg": 0,
+    "lt": 0
   }
 ]
