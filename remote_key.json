@@ -76,7 +76,7 @@
     "topic": "pit_oms_g2one",
     "value": "{\"dev_id\":\"pit_bx1_e66430a64b6e532f\",\"rly0\":550}",
     "tmode": "TTR",
-    "tbase": "2320",
+    "tbase": "2340",
     "lg": 0,
     "lt": 0
   },
@@ -85,7 +85,7 @@
     "topic": "pit_oms_g2one",
     "value": "{\"dev_id\":\"pit_bx1_e66430a64b6e532f\",\"rly0\":5}",
     "tmode": "TTR",
-    "tbase": "2324",
+    "tbase": "2344",
     "lg": 0,
     "lt": 0
   },
@@ -94,7 +94,7 @@
     "topic": "pit_oms_g2one",
     "value": "{\"dev_id\":\"pit_bx1_e66430a64b6e532f\",\"rly0\":550}",
     "tmode": "TTR",
-    "tbase": "2325",
+    "tbase": "2345",
     "lg": 0,
     "lt": 0
   },
@@ -103,7 +103,7 @@
     "topic": "pit_oms_g2one",
     "value": "{\"dev_id\":\"pit_bx1_e66430a64b6e532f\",\"rly0\":5}",
     "tmode": "TTR",
-    "tbase": "2328",
+    "tbase": "2348",
     "lg": 0,
     "lt": 0
   }
