@@ -1,5 +1,41 @@
 [
   {
+    "kee": "*990504#",
+    "topic": "pit_fbk/cron",
+    "value": "{\"dev_id\":\"pit_oms_e6614864d3496f34\", \"rly2\":2400}",
+    "tmode": "TTR",
+    "tbase": "1130",
+    "lg": 0,
+    "lt": 0
+  },
+  {
+    "kee": "*990504#",
+    "topic": "pit_fbk/cron",
+    "value": "Test 2 ",
+    "tmode": "TTR",
+    "tbase": "1131",
+    "lg": 0,
+    "lt": 0
+  },
+  {
+    "kee": "*990504#",
+    "topic": "pit_fbk/cron",
+    "value": "Test 3 ",
+    "tmode": "TTR",
+    "tbase": "1132",
+    "lg": 0,
+    "lt": 0
+  },
+  {
+    "kee": "*990504#",
+    "topic": "pit_fbk/cron",
+    "value": "Test 4 ",
+    "tmode": "TTR",
+    "tbase": "1133",
+    "lg": 0,
+    "lt": 0
+  },
+  {
     "kee": "*0530#",
     "topic": "pit_oms_g2one",
     "value": "{\"dev_id\":\"pit_oms_e6614864d3496f34\", \"rly2\":2400}",
@@ -68,42 +104,6 @@
     "value": "{\"dev_id\":\"pit_bx1_e66430a64b27502f\",\"rly0\":2100}",
     "tmode": "TTR",
     "tbase": "0504",
-    "lg": 0,
-    "lt": 0
-  },
-  {
-    "kee": "*990504#",
-    "topic": "pit_fbk/cron",
-    "value": "Test 1 Happening",
-    "tmode": "TTR",
-    "tbase": "1130",
-    "lg": 0,
-    "lt": 0
-  },
-  {
-    "kee": "*990504#",
-    "topic": "pit_fbk/cron",
-    "value": "Test 2 ",
-    "tmode": "TTR",
-    "tbase": "1131",
-    "lg": 0,
-    "lt": 0
-  },
-  {
-    "kee": "*990504#",
-    "topic": "pit_fbk/cron",
-    "value": "Test 3 ",
-    "tmode": "TTR",
-    "tbase": "1132",
-    "lg": 0,
-    "lt": 0
-  },
-  {
-    "kee": "*990504#",
-    "topic": "pit_fbk/cron",
-    "value": "Test 4 ",
-    "tmode": "TTR",
-    "tbase": "1133",
     "lg": 0,
     "lt": 0
   }
