@@ -4,7 +4,7 @@
     "topic": "pit_oms_g2one",
     "value": "{\"dev_id\":\"pit_oms_e6614864d3496f34\", \"rly2\":2400}",
     "tmode": "TTR",
-    "tbase": "0510",
+    "tbase": "1135",
     "lg": 0,
     "lt": 0
   },
@@ -30,7 +30,7 @@
     "kee": "*8080#",
     "topic": "pit_oms_g2one",
     "value": "{\"dev_id\":\"pit_oms_e6614864d3496f34\", \"rly1\":600}",
-    "tmode": "0",
+    "tmode": "",
     "tbase": "",
     "lg": 0,
     "lt": 0
@@ -76,7 +76,7 @@
     "topic": "pit_fbk/cron",
     "value": "Test 1 Happening",
     "tmode": "TTR",
-    "tbase": "1111",
+    "tbase": "1130",
     "lg": 0,
     "lt": 0
   },
@@ -85,7 +85,7 @@
     "topic": "pit_fbk/cron",
     "value": "Test 2 ",
     "tmode": "TTR",
-    "tbase": "1112",
+    "tbase": "1131",
     "lg": 0,
     "lt": 0
   },
@@ -94,7 +94,7 @@
     "topic": "pit_fbk/cron",
     "value": "Test 3 ",
     "tmode": "TTR",
-    "tbase": "1113",
+    "tbase": "1132",
     "lg": 0,
     "lt": 0
   },
@@ -103,7 +103,7 @@
     "topic": "pit_fbk/cron",
     "value": "Test 4 ",
     "tmode": "TTR",
-    "tbase": "1114",
+    "tbase": "1133",
     "lg": 0,
     "lt": 0
   }
