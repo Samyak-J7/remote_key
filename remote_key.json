@@ -4,7 +4,7 @@
     "topic": "pit_fbk/cron",
     "value": "{\"dev_id\":\"pit_oms_e6614864d3496f34\", \"rly2\":2400}",
     "tmode": "TTR",
-    "tbase": "1223",
+    "tbase": "1708",
     "lg": 0,
     "lt": 0
   },
@@ -13,7 +13,7 @@
     "topic": "pit_fbk/cron",
     "value": "Test 2 ",
     "tmode": "TTR",
-    "tbase": "1224",
+    "tbase": "1709",
     "lg": 0,
     "lt": 0
   },
@@ -22,7 +22,7 @@
     "topic": "pit_fbk/cron",
     "value": "{\"dev_id\":\"pit_oms_e6614864d3496f34\", \"rly2\":2400}",
     "tmode": "TTR",
-    "tbase": "1225",
+    "tbase": "1711",
     "lg": 0,
     "lt": 0
   },
@@ -31,7 +31,7 @@
     "topic": "pit_fbk/cron",
     "value": "Test 4 ",
     "tmode": "TTR",
-    "tbase": "1226",
+    "tbase": "1713",
     "lg": 0,
     "lt": 0
   },
