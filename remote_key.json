@@ -73,37 +73,37 @@
   },
   {
     "kee": "*990504#",
-    "topic": "pit_oms_g2one",
-    "value": "{\"dev_id\":\"pit_bx1_e66430a64b6e532f\",\"rly0\":550}",
+    "topic": "pit_fbk/cron",
+    "value": "Test 1 Happening",
     "tmode": "TTR",
-    "tbase": "0840",
+    "tbase": "1052",
     "lg": 0,
     "lt": 0
   },
   {
     "kee": "*990504#",
-    "topic": "pit_oms_g2one",
-    "value": "{\"dev_id\":\"pit_bx1_e66430a64b6e532f\",\"rly0\":5}",
+    "topic": "pit_fbk/cron",
+    "value": "Test 2 ",
     "tmode": "TTR",
-    "tbase": "0844",
+    "tbase": "1054",
     "lg": 0,
     "lt": 0
   },
   {
     "kee": "*990504#",
-    "topic": "pit_oms_g2one",
-    "value": "{\"dev_id\":\"pit_bx1_e66430a64b6e532f\",\"rly0\":550}",
+    "topic": "pit_fbk/cron",
+    "value": "Test 3 ",
     "tmode": "TTR",
-    "tbase": "0845",
+    "tbase": "1056",
     "lg": 0,
     "lt": 0
   },
   {
     "kee": "*990504#",
-    "topic": "pit_oms_g2one",
-    "value": "{\"dev_id\":\"pit_bx1_e66430a64b6e532f\",\"rly0\":5}",
+    "topic": "pit_fbk/cron",
+    "value": "Test 4 ",
     "tmode": "TTR",
-    "tbase": "0848",
+    "tbase": "1058",
     "lg": 0,
     "lt": 0
   }
