@@ -4,7 +4,7 @@
     "topic": "pit_fbk/cron",
     "value": "{\"dev_id\":\"pit_oms_e6614864d3496f34\", \"rly2\":2400}",
     "tmode": "TTR",
-    "tbase": "1707",
+    "tbase": "1723",
     "lg": 0,
     "lt": 0
   },
@@ -13,7 +13,7 @@
     "topic": "pit_fbk/cron",
     "value": "Test 2 ",
     "tmode": "TTR",
-    "tbase": "1709",
+    "tbase": "1725",
     "lg": 0,
     "lt": 0
   },
@@ -22,7 +22,7 @@
     "topic": "pit_fbk/cron",
     "value": "{\"dev_id\":\"pit_oms_e6614864d3496f34\", \"rly2\":2400}",
     "tmode": "TTR",
-    "tbase": "1711",
+    "tbase": "1727",
     "lg": 0,
     "lt": 0
   },
@@ -31,7 +31,7 @@
     "topic": "pit_fbk/cron",
     "value": "Test 4 ",
     "tmode": "TTR",
-    "tbase": "1713",
+    "tbase": "1729",
     "lg": 0,
     "lt": 0
   },
@@ -40,7 +40,7 @@
     "topic": "pit_oms_g2one",
     "value": "{\"dev_id\":\"pit_oms_e6614864d3496f34\", \"rly2\":2400}",
     "tmode": "TTR",
-    "tbase": "1224",
+    "tbase": "0512",
     "lg": 0,
     "lt": 0
   },
@@ -85,7 +85,7 @@
     "topic": "pit_oms_g2one",
     "value": "{\"dev_id\":\"pit_oms_e661410403656324\", \"rly0\":2}",
     "tmode": "TTR",
-    "tbase": "0540",
+    "tbase": "0530",
     "lg": 0,
     "lt": 0
   },
