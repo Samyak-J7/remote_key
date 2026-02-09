@@ -2,9 +2,9 @@
   {
     "kee": "*990504#",
     "topic": "pit_fbk/cron",
-    "value": "{\"dev_id\":\"pit_oms_e6614864d3496f34\", \"rly2\":2400}",
+    "value": "Test 1 ",
     "tmode": "TTR",
-    "tbase": "2030",
+    "tbase": "1600",
     "lg": 0,
     "lt": 0
   },
@@ -13,25 +13,7 @@
     "topic": "pit_fbk/cron",
     "value": "Test 2 ",
     "tmode": "TTR",
-    "tbase": "2032",
-    "lg": 0,
-    "lt": 0
-  },
-  {
-    "kee": "*990504#",
-    "topic": "pit_fbk/cron",
-    "value": "{\"dev_id\":\"pit_oms_e6614864d3496f34\", \"rly2\":2400}",
-    "tmode": "TTR",
-    "tbase": "2035",
-    "lg": 0,
-    "lt": 0
-  },
-  {
-    "kee": "*990504#",
-    "topic": "pit_fbk/cron",
-    "value": "Test 4 ",
-    "tmode": "TTR",
-    "tbase": "2041",
+    "tbase": "2025",
     "lg": 0,
     "lt": 0
   },
