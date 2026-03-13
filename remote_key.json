@@ -27,15 +27,6 @@
     "lt": 0
   },
   {
-    "kee": "*6A#",
-    "topic": "pit_oms_g2one",
-    "value": "{\"dev_id\":\"pit_oms_e6614864d3496f34\", \"rly2\":2}",
-    "tmode": "TTR",
-    "tbase": "0600",
-    "lg": 0,
-    "lt": 0
-  },
-  {
     "kee": "*8090#",
     "topic": "pit_oms_g2one",
     "value": "{\"dev_id\":\"pit_oms_e6614864d3496f34\", \"rly1\":100,  \"rly0\":0.3}",
