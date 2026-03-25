@@ -9,11 +9,11 @@
     "tdesc": "3203 MOR"
   },
   {
-    "kee": "*1730#",
+    "kee": "*1720#",
     "topic": "pit_oms_g2one",
     "value": "{\"dev_id\":\"pit_oms_e6614864d3496f34\", \"rly2\":900}",
     "tmode": "TTR",
-    "tbase": "1730",
+    "tbase": "1720",
     "tnote": "",
     "tdesc": "3203 EVE"
   },
