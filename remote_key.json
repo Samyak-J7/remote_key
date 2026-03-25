@@ -1,21 +1,21 @@
 [
   {
-    "kee": "*0530#",
+    "kee": "*0512#",
     "topic": "pit_oms_g2one",
     "value": "{\"dev_id\":\"pit_oms_e6614864d3496f34\", \"rly2\":2400}",
     "tmode": "TTR",
     "tbase": "0512",
     "tnote": "",
-    "tdesc": ""
+    "tdesc": "3203 MOR"
   },
   {
-    "kee": "*8090#",
+    "kee": "*1730#",
     "topic": "pit_oms_g2one",
-    "value": "{\"dev_id\":\"pit_oms_e6614864d3496f34\", \"rly1\":100,  \"rly0\":0.3}",
-    "tmode": "0",
-    "tbase": "",
+    "value": "{\"dev_id\":\"pit_oms_e6614864d3496f34\", \"rly2\":900}",
+    "tmode": "TTR",
+    "tbase": "1730",
     "tnote": "",
-    "tdesc": ""
+    "tdesc": "3203 EVE"
   },
   {
     "kee": "*8080#",
@@ -24,7 +24,7 @@
     "tmode": "",
     "tbase": "",
     "tnote": "",
-    "tdesc": ""
+    "tdesc": "3203 STAIR"
   },
   {
     "kee": "*8330510#",
@@ -33,7 +33,7 @@
     "tmode": "TTR",
     "tbase": "0509",
     "tnote": "",
-    "tdesc": ""
+    "tdesc": "833 WTR"
   },
   {
     "kee": "*83302#",
@@ -42,7 +42,7 @@
     "tmode": "TTR",
     "tbase": "0530",
     "tnote": "",
-    "tdesc": ""
+    "tdesc": "833 OFF"
   },
   {
     "kee": "*8330500#",
@@ -51,7 +51,7 @@
     "tmode": "TTR",
     "tbase": "0459",
     "tnote": "",
-    "tdesc": ""
+    "tdesc": "833 GYR"
   },
   {
     "kee": "*990504#",
@@ -60,6 +60,6 @@
     "tmode": "TTR",
     "tbase": "0504",
     "tnote": "",
-    "tdesc": ""
+    "tdesc": "557 WTR"
   }
 ]
