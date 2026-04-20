@@ -47,7 +47,7 @@
   {
     "kee": "*8330500#",
     "topic": "pit_oms_g2one",
-    "value": "{\"dev_id\":\"pit_bx1_e66430a64b295a2f\", \"rly0\":1800}",
+    "value": "{\"dev_id\":\"pit_bx1_e66430a64b295a2f\", \"rly0\":1200}",
     "tmode": "TTR",
     "tbase": "0459",
     "tnote": "",
