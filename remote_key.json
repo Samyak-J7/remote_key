@@ -56,9 +56,9 @@
   {
     "kee": "*990504#",
     "topic": "pit_oms_g2one",
-    "value": "{\"dev_id\":\"pit_bx1_e66430a64b27502f\",\"rly0\":2700}",
+    "value": "{\"dev_id\":\"pit_bx1_e66430a64b27502f\",\"rly0\":3000}",
     "tmode": "TTR",
-    "tbase": "0504",
+    "tbase": "0455",
     "tnote": "",
     "tdesc": "557 WTR"
   }
