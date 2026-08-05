@@ -2,7 +2,7 @@
   {
     "kee": "*0515#",
     "topic": "pit_oms_g2one",
-    "value": "{\"dev_id\":\"pit_oms_e6614864d3496f34\", \"rly2\":240}",
+    "value": "{\"dev_id\":\"pit_oms_e6614864d3496f34\", \"rly2\":2400}",
     "tmode": "TTR",
     "tbase": "0515",
     "tnote": "",
