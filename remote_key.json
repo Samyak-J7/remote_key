@@ -1,6 +1,9 @@
 [
   {
-    "kee": "*0515#",
+    "ble_mac": "XXXXXXXXXXXX",
+    "ble_type":"pit_oms_",
+    "if_con":"DB",
+    "if_lmt":1000,
     "topic": "pit_oms_g2one",
     "value": "{\"dev_id\":\"pit_oms_e6614864d3496f34\", \"rly2\":1800}",
     "tmode": "TTR",
@@ -9,7 +12,10 @@
     "tdesc": "3203 MOR"
   },
   {
-    "kee": "*1720#",
+    "mac": "XXXXXXXXXXXX",
+    "ble_type":"pit_oms_",
+    "if_con":"DB",
+    "if_lmt":1000,
     "topic": "pit_oms_g2one",
     "value": "{\"dev_id\":\"pit_oms_e6614864d3496f34\", \"rly2\":900}",
     "tmode": "",
@@ -18,7 +24,10 @@
     "tdesc": "3203 EVE"
   },
   {
-    "kee": "*8080#",
+    "mac": "XXXXXXXXXXXX",
+    "ble_type":"pit_oms_",
+    "if_con":"DB",
+    "if_lmt":1000,
     "topic": "pit_oms_g2one",
     "value": "{\"dev_id\":\"pit_oms_e6614864d3496f34\", \"rly1\":600}",
     "tmode": "",
@@ -27,7 +36,10 @@
     "tdesc": "3203 STAIR"
   },
   {
-    "kee": "*8330510#",
+    "mac": "XXXXXXXXXXXX",
+    "ble_type":"pit_oms_",
+    "if_con":"DB",
+    "if_lmt":1000,
     "topic": "pit_oms_g2one",
     "value": "{\"dev_id\":\"pit_oms_e661410403656324\", \"rly0\":2100}",
     "tmode": "TTR",
@@ -36,7 +48,10 @@
     "tdesc": "833 WTR"
   },
   {
-    "kee": "*83302#",
+    "mac": "XXXXXXXXXXXX",
+    "ble_type":"pit_oms_",
+    "if_con":"DB",
+    "if_lmt":1000,
     "topic": "pit_oms_g2one",
     "value": "{\"dev_id\":\"pit_oms_e661410403656324\", \"rly0\":2}",
     "tmode": "TTR",
@@ -45,7 +60,10 @@
     "tdesc": "833 OFF"
   },
   {
-    "kee": "*8330500#",
+    "mac": "XXXXXXXXXXXX",
+    "ble_type":"pit_oms_",
+    "if_con":"DB",
+    "if_lmt":1000,
     "topic": "pit_oms_g2one",
     "value": "{\"dev_id\":\"pit_bx1_e66430a64b295a2f\", \"rly0\":1200}",
     "tmode": "",
@@ -54,7 +72,10 @@
     "tdesc": "833 GYR"
   },
   {
-    "kee": "*990504#",
+    "mac": "XXXXXXXXXXXX",
+    "ble_type":"pit_oms_",
+    "if_con":"DB",
+    "if_lmt":1000,
     "topic": "pit_oms_g2one",
     "value": "{\"dev_id\":\"pit_oms_e66430a64b27502f-0\",\"rly0\":3000}",
     "tmode": "TTR",
