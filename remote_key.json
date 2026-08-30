@@ -9,7 +9,7 @@
     "tmode": "TTR",
     "tbase": "0515",
     "tnote": "",
-    "tdesc": "3203 MOR"
+    "tdesc": "TULLU MOR"
   },
   {
     "mac": "XXXXXXXXXXXX",
@@ -21,7 +21,7 @@
     "tmode": "",
     "tbase": "1920",
     "tnote": "",
-    "tdesc": "3203 EVE"
+    "tdesc": "STAIRS LITE"
   },
   {
     "mac": "XXXXXXXXXXXX",
@@ -29,11 +29,11 @@
     "if_con":"DB",
     "if_lmt":1000,
     "topic": "pit_oms_g2one",
-    "value": "{\"dev_id\":\"pit_oms_e6614864d3496f34\", \"rly1\":600}",
+    "value": "{\"dev_id\":\"pit_oms_e6614864d3496f34\", \"rly1\":0.3}",
     "tmode": "",
     "tbase": "",
     "tnote": "",
-    "tdesc": "3203 STAIR"
+    "tdesc": "Gate Lock"
   },
   {
     "mac": "XXXXXXXXXXXX",
