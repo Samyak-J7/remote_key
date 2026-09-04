@@ -14,7 +14,7 @@
     "tdesc": "TULLU MOR"
   },
   {
-    "mac": "XXXXXXXXXXXX",
+    "ble_mac": "XXXXXXXXXXXX",
     "ble_type":"pit_oms_",
     "if_con":"DB",
     "if_lmt":1000,
@@ -28,7 +28,7 @@
     "tdesc": "STAIRS LITE"
   },
   {
-    "mac": "XXXXXXXXXXXX",
+    "ble_mac": "XXXXXXXXXXXX",
     "ble_type":"pit_oms_",
     "if_con":"DB",
     "if_lmt":1000,
@@ -42,7 +42,7 @@
     "tdesc": "Gate Lock"
   },
   {
-    "mac": "XXXXXXXXXXXX",
+    "ble_mac": "XXXXXXXXXXXX",
     "ble_type":"pit_oms_",
     "if_con":"DB",
     "if_lmt":1000,
@@ -56,7 +56,7 @@
     "tdesc": "833 WTR"
   },
   {
-    "mac": "XXXXXXXXXXXX",
+    "ble_mac": "XXXXXXXXXXXX",
     "ble_type":"pit_oms_",
     "if_con":"DB",
     "if_lmt":1000,
@@ -70,7 +70,7 @@
     "tdesc": "833 OFF"
   },
   {
-    "mac": "XXXXXXXXXXXX",
+    "ble_mac": "XXXXXXXXXXXX",
     "ble_type":"pit_oms_",
     "if_con":"DB",
     "if_lmt":1000,
@@ -84,7 +84,7 @@
     "tdesc": "833 GYR"
   },
   {
-    "mac": "XXXXXXXXXXXX",
+    "ble_mac": "XXXXXXXXXXXX",
     "ble_type":"pit_oms_",
     "if_con":"DB",
     "if_lmt":1000,
