@@ -6,7 +6,7 @@
     "if_lmt":1000,
     "topic": "pit_oms_g2one",
     "rly":"rly2",
-    "trg_tm":1800,
+    "trg_tm":800,
     "dvc": "pit_oms_e6614864d3496f34",
     "tmode": "TTR",
     "tbase": "0515",
