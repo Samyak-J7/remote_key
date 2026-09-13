@@ -47,7 +47,7 @@
     "if_con":"DB",
     "if_lmt":1000,
     "topic": "pit_oms_g2one",
-     "rly":"rly0",
+    "rly":"rly0",
     "trg_tm":2100,
     "dvc": "pit_oms_e661410403656324",
     "tmode": "TTR",
