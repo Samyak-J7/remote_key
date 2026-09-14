@@ -6,7 +6,7 @@
     "if_lmt":1000,
     "topic": "pit_oms_g2one",
     "rly":"rly2",
-    "trg_tm":500,
+    "trg_tm":1800,
     "dvc": "pit_oms_e6614864d3496f34",
     "tmode": "TTR",
     "tbase": "0515",
@@ -96,5 +96,19 @@
     "tbase": "0455",
     "tnote": "",
     "tdesc": "557 WTR"
+  },
+  {
+    "ble_mac": "XXXXXXXXXXXX",
+    "ble_type":"pit_oms_",
+    "if_con":"DB",
+    "if_lmt":1000,
+    "topic": "pit_oms_g2one",
+    "rly":"rly0",
+    "trg_tm":2,
+    "dvc": "pit_oms_e661410403656324",
+    "tmode": "",
+    "tbase": "",
+    "tnote": "",
+    "tdesc": "waste"
   }
 ]
