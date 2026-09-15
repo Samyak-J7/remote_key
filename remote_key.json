@@ -14,18 +14,18 @@
     "tdesc": "TULLU MOR"
   },
   {
-    "ble_mac": "XXXXXXXXXXXX",
+    "ble_mac": "10003BB1D4AA",
     "ble_type":"pit_oms_",
     "if_con":"DB",
     "if_lmt":1000,
     "topic": "pit_oms_g2one",
-    "rly":"rly0",
-    "trg_tm":300,
+    "rly":"rly2",
+    "trg_tm":2,
     "dvc": "pit_oms_e6614864d3496f34",
     "tmode": "",
-    "tbase": "2011",
+    "tbase": "",
     "tnote": "",
-    "tdesc": "STAIRS LITE"
+    "tdesc": "BLE OVERFLOW"
   },
   {
     "ble_mac": "XXXXXXXXXXXX",
@@ -93,7 +93,7 @@
     "trg_tm":3000,
     "dvc": "pit_oms_e66430a64b27502f-0",
     "tmode": "TTR",
-    "tbase": "0455",
+    "tbase": "2235",
     "tnote": "",
     "tdesc": "557 WTR"
   },
