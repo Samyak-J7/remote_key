@@ -110,5 +110,19 @@
     "tbase": "",
     "tnote": "",
     "tdesc": "waste"
+  },
+  {
+    "ble_mac": "10003BDD7C72",
+    "ble_type":"pit_oms_",
+    "if_con":"DB",
+    "if_lmt":1000,
+    "topic": "pit_oms_g2one",
+    "rly":"rly2",
+    "trg_tm":2,
+    "dvc": "pit_oms_e6614864d3496f34",
+    "tmode": "",
+    "tbase": "",
+    "tnote": "",
+    "tdesc": "BLE OVERFLOW"
   }
 ]
