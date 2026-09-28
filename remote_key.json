@@ -76,10 +76,10 @@
     "if_lmt":1000,
     "topic": "pit_oms_g2one",
     "rly":"rly0",
-    "trg_tm":1200,
+    "trg_tm":600,
     "dvc": "pit_bx1_e66430a64b295a2f",
-    "tmode": "",
-    "tbase": "",
+    "tmode": "TTR",
+    "tbase": "0600",
     "tnote": "",
     "tdesc": "833 GYR"
   },
