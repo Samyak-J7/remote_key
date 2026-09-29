@@ -118,7 +118,7 @@
     "if_lmt":1000,
     "topic": "pit_oms_g2one",
     "rly":"rly2",
-    "trg_tm":2,
+    "trg_tm":1,
     "dvc": "pit_oms_e6614864d3496f34",
     "tmode": "",
     "tbase": "",
