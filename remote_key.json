@@ -6,10 +6,10 @@
     "if_lmt":1000,
     "topic": "pit_oms_g2one",
     "rly":"rly2",
-    "trg_tm":200,
+    "trg_tm":2200,
     "dvc": "pit_oms_e6614864d3496f34",
     "tmode": "TTR",
-    "tbase": "0515",
+    "tbase": "0505",
     "tnote": "",
     "tdesc": "TULLU MOR"
   },
@@ -118,10 +118,10 @@
     "if_lmt":1000,
     "topic": "pit_oms_g2one",
     "rly":"rly2",
-    "trg_tm":1,
+    "trg_tm":900,
     "dvc": "pit_oms_e6614864d3496f34",
     "tmode": "",
-    "tbase": "",
+    "tbase": "0620",
     "tnote": "",
     "tdesc": "BLE REMOTE"
   }
